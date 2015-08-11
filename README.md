@@ -32,3 +32,10 @@ Create a light weight application that informs the frontends of the backends, al
 
   ![Alt text](https://github.com/FINRAOS/Elasticd/blob/master/docs/img/elasticd.png?raw=true)
 
+### Installation
+* You'll need to have the following installed:
+  * Pip - Python Package Manager (7.1.0)
+
+    * Boto (pip install Boto)
+    * Flask (pip install Flask)
+    * Apscheduler (pip install Apscheduler)
